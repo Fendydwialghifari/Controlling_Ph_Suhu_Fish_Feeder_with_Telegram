@@ -7,10 +7,10 @@
 #include <LCDI2C_Multilingual.h>
 
 // Wifi network station credentials
-#define WIFI_SSID "Andryan_805"
-#define WIFI_PASSWORD "baba9807"
+#define WIFI_SSID "XXXXX"
+#define WIFI_PASSWORD "XXXXX"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "6566818844:AAG1xEyr59ur4_CCQ6NmQMca1hfb8EvpIss"
+#define BOT_TOKEN "XXXXXXXXXXXXXXXXXX"
 
 const unsigned long BOT_MTBS = 1000;  // mean time between scan messages
 
